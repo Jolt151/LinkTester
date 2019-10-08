@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/startAll"
+        android:icon="@drawable/ic_play_arrow_black_24dp"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/addLink"
+        android:title="Add Link"
+        android:icon="@drawable/ic_add_black_24dp"
+        app:showAsAction="always" />
+
+
+</menu>
